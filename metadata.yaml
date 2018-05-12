@@ -1,0 +1,42 @@
+_repo: Een-Kerstlied-in-Proza_28560
+_version: 0.1.0
+alternative_title: A Christmas carol. Dutch
+contributor:
+  translator:
+    agent_name: Kuylman, J.
+    gutenberg_agent_id: '33403'
+    url: http://www.gutenberg.org/2009/agents/33403
+covers:
+- cover_type: archival
+  image_path: 28560-h/images/cover-achter.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2009-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28560'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scrooge, Ebenezer (Fictitious character) -- Fiction'
+- !lcsh 'Misers -- Fiction'
+- !lcsh 'Sick children -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Ghost stories'
+- !lcsh 'Christmas stories'
+title: Een Kerstlied in Proza
+url: http://www.gutenberg.org/ebooks/28560
